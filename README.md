@@ -1,4 +1,10 @@
-## Bem-vindo(a) ao perfil 😁
+## Bem-vindo(a) ao perfil 🇧🇷
+
+Eu sou Mariane Ramalho Belini
+
+- Sou estudante da [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo em HTML, CSS e JavaScript
+- Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
 
  <div>
    <a href="https://github.com/bel1ni
