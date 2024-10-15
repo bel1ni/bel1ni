@@ -1,23 +1,23 @@
 ## Bem-vindo(a) ao perfil 🇧🇷
 
-Eu sou Mariane Ramalho Belini
+**Eu sou Mariane Ramalho Belini**
 
-- Sou estudante da [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo em HTML, CSS e JavaScript
+- Sou estudante da [Alura](https://www.alura.com.br) e [Curso em Vídeo](https://www.cursoemvideo.com)
+- Estou me desenvolvendo em HTML, CSS, JavaScript e Lógica de Programação
 - Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
 
- <div>
-   <a href="https://github.com/bel1ni
-">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bel1ni
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div>
+   <a href="https://github.com/devemdobro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bel1ni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bel1ni&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+        
 </div>
   
 <br>
