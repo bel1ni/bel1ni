@@ -2,8 +2,8 @@
 
 **Eu sou Mariane Ramalho Belini**
 
-- Sou estudante da [Alura](https://www.alura.com.br) e [Curso em Vídeo](https://www.cursoemvideo.com)
-- Estou me desenvolvendo em HTML, CSS, JavaScript e Lógica de Programação
+- Sou estudante do [Curso em Vídeo](https://www.cursoemvideo.com)
+- Estou me desenvolvendo em HTML, CSS, JavaScript, Java e Lógica de Programação
 - Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
 
 <div>
