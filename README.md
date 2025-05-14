@@ -3,7 +3,7 @@
 **Eu sou Mariane Ramalho Belini**
 
 - Sou estudante do [Curso em Vídeo](https://www.cursoemvideo.com)
-- Estou me desenvolvendo em HTML, CSS, JavaScript, Java e Lógica de Programação
+- Estou me desenvolvendo em HTML, CSS, JavaScript, Java, Python e Lógica de Programação
 - Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
 
 <div>
