@@ -1,10 +1,10 @@
-## Bem-vindo(a) ao perfil 🇧🇷
+## WELCOME 🇧🇷
 
-**Eu sou Mariane Ramalho Belini**
+**I am Mariane**
 
-- Sou estudante do [Curso em Vídeo](https://www.cursoemvideo.com)
-- Estou me desenvolvendo em HTML, CSS, JavaScript, Java, Python e Lógica de Programação
-- Utilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos
+- I’m a programming student focused on Full Stack Development.
+- Here, I’ll be sharing my learning journey, projects, and progress as I build my skills in both front-end and back-end technologies.
+- I’m passionate about creating useful, well-designed applications and always looking for opportunities to grow and connect with other developers.
 
 <div>
    <a href="https://github.com/devemdobro">
@@ -23,11 +23,11 @@
   
 <br>
  
-### Meus contatos:
- 
 <div> 
   <a href="https://instagram.com/belini_mariane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/belini_m" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQzHhDqwRKLZvfDMqqGztCfWJKXnklSMcBgWSJBXVbNfqVXgGJFvgXQxHHqNjqzfJWPzL"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marianebelini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<br clear="both">
