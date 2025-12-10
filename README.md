@@ -1,4 +1,6 @@
-## 👋 WELCOME 🇧🇷
+## 👋 WELCOME 
+![BrazilGIF](https://github.com/user-attachments/assets/3dba984b-d846-4dfc-bdb3-01b3d7759dd7)
+
 
 **I am Mariane :)**
 
@@ -8,17 +10,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=bel1ni&theme=discord&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🎮 GitHub Stats (Gamer Style)
 
 ![Mariane's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bel1ni&show_icons=true&theme=tokyonight)
-
-### 🔥 Outra opção de estilo (Radical)
-![Mariane's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bel1ni&show_icons=true&theme=radical)
 
 ---
 
