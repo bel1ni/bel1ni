@@ -6,19 +6,18 @@
 - Here, I’ll be sharing my learning journey, projects, and progress as I build my skills in both front-end and back-end technologies.
 - I’m passionate about creating useful, well-designed applications and always looking for opportunities to grow and connect with other developers.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bel1ni&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bel1ni&theme=dark&hide_border=true)](https://github-readme-streak-stats.herokuapp.com)
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation">
 </picture>
+
 
 ###
 
-<div style="display: inline_block"><br>
+<div><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
