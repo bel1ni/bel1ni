@@ -6,7 +6,8 @@
 - Here, I’ll be sharing my learning journey, projects, and progress as I build my skills in both front-end and back-end technologies.
 - I’m passionate about creating useful, well-designed applications and always looking for opportunities to grow and connect with other developers.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bel1ni&theme=dark&hide_border=true)](https://github-readme-streak-stats.herokuapp.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bel1ni&layout=compact)
+![Mariane's GitHub stats](https://github-readme-stats.vercel.app/api?username=bel1ni&show_icons=true&theme=dark)
 
 ###
 
