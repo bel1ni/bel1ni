@@ -6,7 +6,7 @@
 - Here, I’ll be sharing my learning journey, projects, and progress as I build my skills in both front-end and back-end technologies.
 - I’m passionate about creating useful, well-designed applications and always looking for opportunities to grow and connect with other developers.
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bel1ni&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bel1ni&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ###
 
