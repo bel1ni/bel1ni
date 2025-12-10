@@ -1,5 +1,6 @@
 ## 👋 WELCOME 
-![BrazilGIF](https://github.com/user-attachments/assets/3dba984b-d846-4dfc-bdb3-01b3d7759dd7)
+<img src="https://flagcdn.com/w20/br.png" width="20">
+
 
 
 **I am Mariane :)**
