@@ -4,7 +4,7 @@
 
 **I am Mariane :)**
 
-- I’m a programming student focused on Full Stack Development.  
+- I’m a programming student focused on Back-End Development.  
 - Here, I’ll be sharing my learning journey, projects, and progress as I build my skills in both front-end and back-end technologies.  
 - I’m passionate about creating useful, well-designed applications and always looking for opportunities to grow and connect with other developers.
 
