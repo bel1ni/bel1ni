@@ -34,7 +34,7 @@ I'm **Mariane**, a full-stack software developer passionate about crafting clean
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,supabase,vscode,nodejs,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,supabase,vscode,nodejs&theme=dark" />
 
 </div>
 
